@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">云笔记</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="today">所有笔记</string>
+	<string name="newnote">新笔记</string>
+	<string name="lastList">垃圾桶</string>
+	<string name="settings">设置</string>
+	<string name="quit">退出</string>
+	<string name="login">登录</string>
+	<string name="register">注册</string>
+	<string name="findpassword">忘记密码？</string>
+	<string name="ifLoginFailVisable_Tips">如果邮箱验证邮件未发送，请用密码123456登录</string>
+</resources>
